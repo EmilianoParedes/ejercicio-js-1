@@ -1,2 +1,4 @@
-# ejercicio-js-1
-Ejercicio en JavaScript de la actividad número 1 de Marzo - Profesora: Gabriel Borba
+# Ejercicio n°1 de JavaScript
+---
+## Crear una función que reciba el lado de un cuadrado y retorne su perímetro.
+
