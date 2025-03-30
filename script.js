@@ -3,3 +3,4 @@ function calcularPerímetro(){
     let perímetro = lado * 4;
     console.log("El perímetro del cuadrado es: " + perímetro);
 }
+calcularPerímetro();
